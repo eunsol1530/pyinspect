@@ -12,7 +12,7 @@ from pyinspect._colors import (
     mocassin,
 )
 
-SO_url = "http://stackoverflow.com"
+SO_url = "https://stackoverflow.com"  # Use HTTPS instead of HTTP
 ls = f"bold {lightgray}"  # link style
 
 
